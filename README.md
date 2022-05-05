@@ -4,6 +4,10 @@
 
 > In this exercise I will build a simple yet powerful webpack boilerplate, which I can later use as a starting point in my projects.
 
+<p align="center">
+  <img src="https://blog.mobnia.com/content/images/size/w2000/2020/06/webpack-1.png" alt="Full website" />
+</p>
+
 ## Built With
 
 - HTML
