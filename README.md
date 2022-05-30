@@ -6,7 +6,7 @@
 
 > In this project, I will build a simple HTML list of To Do tasks. The list will be styled according to the specifications listed later in this lesson. This simple web page will be built using webpack and served by a webpack dev server.
 
-[![Capstone intro](https://img.youtube.com/vi/AcUd-_Yjjqg/0.jpg)](https://www.youtube.com/watch?v=AcUd-_Yjjqg)
+![Capstone intro](https://img.youtube.com/vi/AcUd-_Yjjqg/0.jpg)
 
 ## Built With ⚒
 
