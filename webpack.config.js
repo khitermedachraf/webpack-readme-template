@@ -21,6 +21,16 @@ module.exports = {
     runtimeChunk: 'single',
   },
   module: {
+    loaders: [ //loaders
+      {
+        test: /\.js$/,
+        exclude: /(node_modules)/,
+        loader: 'babel-loader',
+        query: {
+          presets: ['latest']
+        }
+      }
+    ],
     rules: [
       {
         test: /\.css$/i,
